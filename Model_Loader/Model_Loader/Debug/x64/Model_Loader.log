@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  BrainComponent.cpp
+  Component.cpp
+  Entity.cpp
+  ModelComponent.cpp
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\deps\include\learnopengl\mesh.h(88,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Scene.cpp
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\deps\include\learnopengl\mesh.h(88,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(126,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(180,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(211,44): warning C4018: '>': signed/unsigned mismatch
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(212,44): warning C4018: '<=': signed/unsigned mismatch
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(327,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(328,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(332,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(333,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(335,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(336,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Source\Scene.cpp(353,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Model_Loader.vcxproj -> D:\SKYLAR\GIT-REPOS\ct5037-boid-engine-JoshuaRiches\Model_Loader\Model_Loader\Debug\x64\Model_Loader.exe
