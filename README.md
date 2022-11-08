@@ -1,8 +1,9 @@
 # Boids Sim
 This project was developed as part of a university assignment. The aim of the assignment was to use the assimp library to develop a 3d model renderer. Then with that rendering system we had to create an object oriented system which was then used to create boids/flocking behaviours.
 
-Functionality:
+# Functionality
 The boids in this system follow the standard flocking behaviours of; cohesion, allignment, separation and wandering. They remain bound within the clear box in the scene. They also avoid the red box in the scene.
+You can use the mouse to look around with the camera and use 'wasd' to move the camera around the scene. Pressing 'space' will pause the camera rotation and make the cursor visible so that you can interact with the GUI.
 You can use the GUI to modify the number of boids in the scene, the wieghting of each of the boid behaviours, and the position of the red box.
 
 # External Libraries Used
