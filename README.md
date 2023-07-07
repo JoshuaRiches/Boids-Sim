@@ -6,6 +6,9 @@ The boids in this system follow the standard flocking behaviours of; cohesion, a
 You can use the mouse to look around with the camera and use 'wasd' to move the camera around the scene. Pressing 'space' will pause the camera rotation and make the cursor visible so that you can interact with the GUI.
 You can use the GUI to modify the number of boids in the scene, the wieghting of each of the boid behaviours, and the position of the red box.
 
+# Video
+https://www.youtube.com/watch?v=ZPJleWmG_RM
+
 # External Libraries Used
 
 Assimp - https://github.com/assimp/assimp
